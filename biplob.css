@@ -1,0 +1,148 @@
+body{
+    width: 1300px;
+  
+}
+ *{
+box-sizing: border-box;
+text-align: center;
+margin: auto;
+
+ }
+ .longinbox {
+    border: 1px solid black;
+    width: 1290px;
+    height: 618px;
+    background: green;
+    position: relative;
+}
+.mainpart {
+    width: 436px;
+    height: 280px;
+    /* border: 1px solid; */
+    background: rgb(187, 180, 180);
+    position: relative;
+    top: 179px;
+    box-shadow: -7px 7px 14px 5px black;
+    border-radius: 11px;
+}
+.mainpart h6 {
+    top: 100px;
+    position: relative;
+    left: -127px;
+    font-size: 15px;
+    font-family: arial;
+    font-weight: 500;
+}
+
+.mainpart input {
+    position: relative;
+    top: 74px;
+    left: 54px;
+    padding: 9px;
+    width: 241px;
+    border: none;
+   
+    background-repeat: 7px;
+    body{
+        width: 1300px;
+      
+    }
+     *{
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+    
+     }
+     .longinbox {
+        border: 1px solid black;
+        width: 1290px;
+        height: 618px;
+        background: green;
+        position: relative;
+    }
+    .mainpart {
+        width: 436px;
+        height: 280px;
+        /* border: 1px solid; */
+        background: rgb(187, 180, 180);
+        position: relative;
+        top: 179px;
+    }
+    .mainpart h6 {
+        top: 100px;
+        position: relative;
+        left: -127px;
+        font-size: 15px;
+        font-family: arial;
+        font-weight: 500;
+    }
+    
+    .mainpart input {
+        position: relative;
+        top: 74px;
+        left: 54px;
+        padding: 9px;
+        width: 241px;
+        border: none;
+
+        border-radius: 5px;
+    }
+    .mainpart h5 {
+        /* display: block; */
+        top: 27px;
+        position: absolute;
+        left: 133px;
+        font-size: 31px;
+        font-family: arial;
+    }
+    input.btn {
+        width: 130px;
+        position: absolute;
+        top: 204px;
+        left: 139px;
+        font-size: 17px;
+        background: gray;
+        border: 1px solid black;
+        font-weight: 700;
+        border-radius: 5px;
+        border-bottom: 1px solid #000;
+    }
+    input.btn:hover{
+        background: green;
+        cursor: pointer;
+    
+    }
+    .mainpart input:hover{
+        background:rgb(88, 192, 88);
+       
+    }
+}
+.mainpart h5 {
+    /* display: block; */
+    top: 27px;
+    position: absolute;
+    left: 133px;
+    font-size: 31px;
+    font-family: arial;
+    text-shadow: -2px -3px 3px aliceblue;
+}
+input.btn {
+    width: 130px;
+    position: absolute;
+    top: 204px;
+    left: 139px;
+    font-size: 17px;
+    background: gray;
+    border: 1px solid black;
+    font-weight: 700;
+    border-radius: 5px;
+}
+input.btn:hover{
+    background: green;
+    cursor: pointer;
+
+}
+.mainpart input:hover{
+    background:rgb(88, 192, 88);
+   
+}
